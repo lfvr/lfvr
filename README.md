@@ -8,4 +8,4 @@ I'm a self-taught developer focused on web development with Python and JavaScrip
 - 💬 Ask me about: travel tech and APIs
 - 📫 Send me a message!
 
-Projects on my GitHub are functional only - for examples of design work please drop me a message!
+Projects on my GitHub are functional only - for examples of design work feel free to drop me a message!
