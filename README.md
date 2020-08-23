@@ -7,3 +7,5 @@ I'm a self-taught developer focused on web development with Python and JavaScrip
 - 👯 Looking to collaborate on: a new open source project - get in touch!
 - 💬 Ask me about: travel tech and APIs
 - 📫 Send me a message!
+
+Projects on my GitHub are functional only - for examples of design work please drop me a message!
